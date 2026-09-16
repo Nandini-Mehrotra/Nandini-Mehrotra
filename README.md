@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nandini Mehrotra 👋
 
 I'm a developer focused on building full-stack web applications and machine learning models.
 
