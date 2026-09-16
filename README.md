@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Nandini-Mehrotra/Nandini-Mehrotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building full-stack web applications and machine learning models.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** C++, Python, JavaScript (ES6+), HTML5, CSS3
+- **Frontend:** React, Tailwind CSS
+- **Data Science & ML:** pandas, scikit-learn
+- **Tools & Platforms:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 🔭 Currently building full-stack and ML-driven web projects
+- 🌱 Sharpening Data Structures & Algorithms in C++
+- 💬 Ask me about React, Python pipelines, or Git workflows
+
+---
+
