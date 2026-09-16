@@ -1,4 +1,4 @@
-# Hi there, I'm Nandini Mehrotra 👋
+# hi i'm nandini mehrotra 
 
 I'm a developer focused on building full-stack web applications and machine learning models.
 
